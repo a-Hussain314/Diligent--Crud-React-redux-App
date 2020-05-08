@@ -1,3 +1,4 @@
-- Crud react app , for posts or blogs or whterver , works with a json serever to maintaine data .
+- Crud react app , for posts or blogs or whterver .
+- works with a json serever to maintaine data .
 - using redux to have a global store for data that needs to be accessble to any component .   
 - using google auth, to signing user in and out, and use its google user id to give every user access create post and delete or edit his own old posts .
