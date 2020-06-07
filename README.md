@@ -1,4 +1,4 @@
-Curd React-redux web Application , working with Rest Api , and google gmail user authentication 
+Crud React-redux web Application , working with Rest Api , and google gmail user authentication 
 ------------------------------------------------------------------
 - Crud react app , for posts or blogs or whterver .
 - works with  REST Api or a json serever to maintaine data .
